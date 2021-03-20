@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahul-119966
+- 👋 Hi, I’m Rahul Agrawal
 - 👀 I’m interested in Android development and AWS
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on AWS, Flutter, C# projects
