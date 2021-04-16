@@ -1,13 +1,19 @@
-- 👋 Hi, I’m Rahul Agrawal
-- 👀 I’m interested in Android development and AWS
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on AWS, Flutter, C# projects
-- 📫 You can reach me via Twitter https://twitter.com/rahulagrwl96
-- 
-![Twitter Follow](https://img.shields.io/twitter/follow/rahulagrwl96?style=social)
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Frahulagrwl96)
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Rahul Agrawal!
 
-<!---
-rahul-119966/rahul-119966 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Twitter Follow](https://img.shields.io/twitter/follow/rahulagrwl96?style=social)
+
+I'm a DevOps Enginner at Siemens Healthineers. I love coding in C#, Python and Java.
+
+---
+
+🧰 Toolbox
+
+<img src="https://cdn.worldvectorlogo.com/logos/logo-android.svg" alt="JavaScript Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="CSS Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="CSS Logo" width="50" height="50"/>
+
+---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-119966&hide=java,html,css&theme=radical)]
+
+[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul-119966&count_private=true&show_icons=true&theme=radical)]
