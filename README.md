@@ -14,6 +14,4 @@ I'm a DevOps Enginner at Siemens Healthineers. I love coding in C#, Python and J
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-119966&hide=java,html,css&theme=radical)]
-
-[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul-119966&count_private=true&show_icons=true&theme=radical)]
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul-119966&count_private=true&show_icons=true&theme=radical)
