@@ -3,6 +3,9 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/rahulagrwl96?style=social)
 
 I'm a DevOps Enginner at Siemens Healthineers. I love coding in C#, Python and Java.
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate on AWS, Flutter, C# projects
+- 📫 You can reach me via Twitter https://twitter.com/rahulagrwl96
 
 ---
 
