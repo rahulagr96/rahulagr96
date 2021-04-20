@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Rahul Agrawal!
 
-![Twitter Follow](https://img.shields.io/twitter/follow/rahulagrwl96?style=social)
+<a href="https://twitter.com/rahulagrwl96">![Twitter Follow](https://img.shields.io/twitter/follow/rahulagrwl96?style=social)</a>
 
 I'm a DevOps Enginner at Siemens Healthineers. I love coding in C#, Python and Java.
 - 🌱 I’m currently learning Flutter
