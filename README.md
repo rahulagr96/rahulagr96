@@ -16,10 +16,4 @@ I'm a DevOps Enginner at Siemens Healthineers. I love coding in C#, Python and J
 
 ---
 
-## &#x1f4c8; My GitHub Stats
-
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul-119966&count_private=true&show_icons=true&theme=radical) <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-119966&theme=dark" alt="rahul-119966"/>
-
----
-
 <a href="https://www.buymeacoffee.com/rahulagrawa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rahulagrawa" /></a>
