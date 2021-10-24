@@ -1,7 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Rahul Agrawal!
 
 <a href="https://twitter.com/rahulagrwl96">![Twitter Follow](https://img.shields.io/twitter/follow/rahulagrwl96?style=social)</a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-119966&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-119966" /> </p>
 
 
 I'm a MSc student persuing Computer Science in University College Dublin. I've been working past 2 years as a DevOps Engineer in Siemens Healthineers.
