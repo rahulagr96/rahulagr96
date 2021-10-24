@@ -4,9 +4,9 @@
 
 
 
-I'm a DevOps Enginner at Siemens Healthineers. I love coding in C#, Python and Java.
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on AWS, Flutter, C# projects
+I'm a MSc student persuing Computer Science in University College Dublin. I've been working past 2 years as a DevOps Engineer in Siemens Healthineers.
+- 🌱 I’m currently learning Machine Learning and Neural Networks.
+- 💞️ I’m looking to collaborate on ML, AI, AWS, Flutter projects
 - 📫 You can reach me via Twitter https://twitter.com/rahulagrwl96
 
 ---
