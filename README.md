@@ -3,7 +3,8 @@
 <a href="https://twitter.com/rahulagrwl96">![Twitter Follow](https://img.shields.io/twitter/follow/rahulagrwl96?style=social)</a>
 
 
-I'm a MSc student persuing Computer Science in University College Dublin. I've been working past 2 years as a DevOps Engineer in Siemens Healthineers.
+I'm a Computer Science Masters student at University College Dublin. 
+I've been working past two years as a DevOps Engineer at Siemens Healthineers (India).
 - 🌱 I’m currently learning Machine Learning and Neural Networks.
 - 💞️ I’m looking to collaborate on ML, AI, AWS, Flutter projects
 - 📫 You can reach me via Twitter https://twitter.com/rahulagrwl96
