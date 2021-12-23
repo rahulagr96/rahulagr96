@@ -43,6 +43,9 @@ I'm a MSc student persuing Computer Science in University College Dublin. I've b
         <td><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img
                     src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"
                     height="40" /> </a></td>
+       <td><a href="https://julialang.org/" target="_blank" rel="noreferrer"> <img
+                    src="https://brandeps.com/logo-download/J/Julia-logo-vector-01.svg" alt="tensorflow" width="40"
+                    height="40" /> </a></td>
         <td><a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img
                     src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40"
                     height="40" /> </a></td>
@@ -126,6 +129,9 @@ I'm a MSc student persuing Computer Science in University College Dublin. I've b
         <td><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
                     alt="css3" width="40" height="40" /> </a></td>
+         <td><a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img
+                    src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg"
+                    alt="js" width="40" height="40" /> </a></td>
         <td><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
                     alt="bootstrap" width="40" height="40" /> </a></td>
@@ -148,15 +154,18 @@ I'm a MSc student persuing Computer Science in University College Dublin. I've b
         <td><a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
                     alt="android" width="40" height="40" /> </a></td>
-        <td><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
-                    src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-            </a></td>
         <td><a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img
                     src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40"
                     height="40" /> </a></td>
         <td><a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img
                     src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40"
                     height="40" /> </a></td>
+        <td><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
+                    src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
+            </a></td>
+         <td><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img
+                    src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a>
+        </td>
     </tr>
     <tr>
         <td>
@@ -188,9 +197,6 @@ I'm a MSc student persuing Computer Science in University College Dublin. I've b
         <td><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img
                     src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
                     alt="illustrator" width="40" height="40" /> </a></td>
-        <td><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img
-                    src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a>
-        </td>
         <td><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
                     alt="linux" width="40" height="40" /> </a></td>
