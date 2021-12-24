@@ -1,7 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Rahul Agrawal!
 
-<a href="https://twitter.com/rahulagrwl96">![Twitter Follow](https://img.shields.io/twitter/follow/rahulagrwl96?style=social)</a>
-
+<img src="https://komarev.com/ghpvc/?username=rahul-119966&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-119966" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/rahulagrwl96">![Twitter Follow](https://img.shields.io/twitter/follow/rahulagrwl96?style=social)</a>
 
 I'm a Computer Science Masters student at University College Dublin (Ireland).
 
