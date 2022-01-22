@@ -1,13 +1,13 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Rahul Agrawal!
 
-<img src="https://komarev.com/ghpvc/?username=rahul-119966&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-119966" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/rahulagrwl96">![Twitter Follow](https://img.shields.io/twitter/follow/rahulagrwl96?style=social)</a>
+<img src="https://komarev.com/ghpvc/?username=rahul-119966&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-119966" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/rahul_agrwl96">![Twitter Follow](https://img.shields.io/twitter/follow/rahul_agrwl96?style=social)</a>
 
 I'm a Computer Science Masters student at University College Dublin (Ireland).
 
 I've been working past two years as a DevOps Engineer at Siemens Healthineers (India).
 - 🌱 I’m currently learning Machine Learning and Neural Networks.
 - 💞️ I’m looking to collaborate on ML, AI, AWS, Flutter projects
-- 📫 You can reach me via Twitter https://twitter.com/rahulagrwl96
+- 📫 You can reach me via Twitter https://twitter.com/rahul_agrwl96
 
 ---
 
