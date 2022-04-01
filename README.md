@@ -219,7 +219,9 @@ I've been working past two years as a DevOps Engineer at Siemens Healthineers (I
 
 ## &#x1f4c8; My GitHub Stats
 
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulagr96&count_private=true&show_icons=true&theme=radical) <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulagr96&theme=dark" alt="rahulagr96"/>
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulagr96&count_private=true&show_icons=true&theme=radical) 
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulagr96&theme=dark" alt="rahulagr96"/>
 
 ---
 
