@@ -209,8 +209,8 @@ I've been working past two years as a DevOps Engineer at Siemens Healthineers (I
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://twitter.com/rahulagrwl96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahulagrwl96" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rahulagrawal96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahulagrawal96" height="30" width="40" /></a>
+<a href="https://twitter.com/rahulagr96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahulagr96" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rahulagr96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahulagr96" height="30" width="40" /></a>
 <a href="https://codepen.io/rahul119966" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/codepen-icon.svg" alt="rahul119966" height="30" width="40" /></a>
 <a href="https://dev.to/rahul119966" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rahul119966" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/10095469/rahul-agrawal" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" alt="rahul-agrawal" height="30" width="40" /></a>
@@ -219,7 +219,7 @@ I've been working past two years as a DevOps Engineer at Siemens Healthineers (I
 
 ## &#x1f4c8; My GitHub Stats
 
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul-119966&count_private=true&show_icons=true&theme=radical) <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-119966&theme=dark" alt="rahul-119966"/>
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulagr96&count_private=true&show_icons=true&theme=radical) <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulagr96&theme=dark" alt="rahulagr96"/>
 
 ---
 
