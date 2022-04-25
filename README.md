@@ -7,7 +7,7 @@ I'm a Computer Science Masters student at University College Dublin (Ireland).
 I've been working past two years as a DevOps Engineer at Siemens Healthineers (India).
 - 🌱 I’m currently learning Machine Learning and Neural Networks.
 - 💞️ I’m looking to collaborate on ML, AI, AWS, Flutter projects
-- 📫 You can reach me via Twitter https://twitter.com/rahulagr96
+- 📫 You can reach me via [Twitter](https://twitter.com/rahulagr96) | [Linkedin](https://www.linkedin.com/in/rahulagr96/) | [rahulagr96@yahoo.com](mailto:rahulagr96@yahoo.com)
 
 ---
 
