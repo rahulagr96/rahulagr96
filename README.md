@@ -2,11 +2,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=rahul-119966&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-119966" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/rahul_agrwl96">![Twitter Follow](https://img.shields.io/twitter/follow/rahulagr96?style=social)</a>
 
-I'm a Computer Science Masters student at University College Dublin (Ireland).
-
+I'm a SDE Intern at Amazon Berlin.
 I've been working past two years as a DevOps Engineer at Siemens Healthineers (India).
-- 🌱 I’m currently learning Machine Learning and Neural Networks.
-- 💞️ I’m looking to collaborate on ML, AI, AWS, Flutter projects
 - 📫 You can reach me via [Twitter](https://twitter.com/rahulagr96) | [Linkedin](https://www.linkedin.com/in/rahulagr96/) | [rahulagr96@yahoo.com](mailto:rahulagr96@yahoo.com)
 
 ---
