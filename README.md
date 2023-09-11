@@ -2,8 +2,11 @@
 
 <img src="https://komarev.com/ghpvc/?username=rahul-119966&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-119966" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/rahul_agrwl96">![Twitter Follow](https://img.shields.io/twitter/follow/rahulagr96?style=social)</a>
 
-I'm a SDE Intern at Amazon Berlin.
-I've been working past two years as a DevOps Engineer at Siemens Healthineers (India).
+👋 Hi! I'm Rahul Agrawal
+✅ Currently working as DevOps Engineer at Carl Zeiss Digital Innovation, Berlin.
+✅ Highly competent and results oriented DevOps-focused professional with 3.5 years of experience in DevOps and Software engineering.
+✅ Strong background in AWS, Azure, Kubernetes and Docker.
+✅ Master's degree in Computer Science.
 - 📫 You can reach me via [Twitter](https://twitter.com/rahulagr96) | [Linkedin](https://www.linkedin.com/in/rahulagr96/) | [rahulagr96@yahoo.com](mailto:rahulagr96@yahoo.com)
 
 ---
