@@ -6,7 +6,7 @@
 
 ✅ Currently working as DevOps Engineer at Carl Zeiss Digital Innovation, Berlin.
 
-✅ Highly competent and results oriented DevOps-focused professional with 3.5 years of experience in DevOps and Software engineering.
+✅ Highly competent and results oriented DevOps-focused professional with 5 years of experience in DevOps and Software engineering.
 
 ✅ Strong background in AWS, Azure, Kubernetes and Docker.
 
