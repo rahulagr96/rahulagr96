@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="./terminal.svg" alt="rahul@github: neofetch. Rahul, DevOps Engineer at Carl Zeiss in Berlin." width="720">
+
+</div>
+
 # 👋 Hi, I'm Rahul Agrawal
 
 #### 🚀 DevOps Engineer | Cloud and Kubernetes | ![Profile views](https://komarev.com/ghpvc/?username=rahul-119966&label=Profile%20views&color=0e75b6&style=flat) 
