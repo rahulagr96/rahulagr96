@@ -6,7 +6,7 @@
 
 # 👋 Hi, I'm Rahul Agrawal
 
-#### 🚀 DevOps Engineer | Cloud and Kubernetes | ![Profile views](https://komarev.com/ghpvc/?username=rahul-119966&label=Profile%20views&color=0e75b6&style=flat) 
+#### 🚀 DevOps Engineer | Cloud and Kubernetes | ![Profile views](https://komarev.com/ghpvc/?username=rahulagr96&label=Profile%20views&color=0e75b6&style=flat) 
 
 
 ---
